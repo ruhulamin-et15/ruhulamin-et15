@@ -6,7 +6,7 @@ I am a full-stack developer with a passion for building robust and scalable appl
 
 - 🌱 I’m currently learning IoT.
 - 💼 I’m looking for opportunities to collaborate on interesting projects.
-- 📫 How to reach me: ruhulamin.et15@gmail.com (mailto:ruhulamin.et15@gmail.com)
+- 📫 How to reach me: ruhulamin.et15@gmail.com
 
 ## 🛠️ Skills
 
