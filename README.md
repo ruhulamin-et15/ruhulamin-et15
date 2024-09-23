@@ -32,15 +32,6 @@ I am a full-stack developer with a passion for building robust and scalable appl
 - Git, GitHub
 - Postman,
 
-## 📁 Projects
-
-## 📫 Get in Touch
-
-Feel free to reach out if you'd like to connect or collaborate!
-
-- [LinkedIn](https://www.linkedin.com/in/ruhulamin-et15)
-- [Personal Website](https://myportfolio-rust-eight.vercel.app)
-
 ---
 
 Thank you for visiting my GitHub profile! 🌟
