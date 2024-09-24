@@ -34,8 +34,9 @@ I am a full-stack developer with a passion for building robust and scalable appl
 
 ### Backend
 
-- Node.js, Express.js, Next.js API,
+- Node.js, Express.js, Next.js API
 - Database Management (MongoDB, PostgreSQL)
+- Database Interaction (Mongoose, Prisma)
 - RESTful API Development
 
 ### DevOps
