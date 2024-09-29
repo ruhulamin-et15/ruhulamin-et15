@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Md. Ruhul Amin!
+# 👋 Hello, I'm Ruhul Amin!
 
 I am a full-stack developer with a passion for building robust and scalable applications. I enjoy working on both the front-end and back-end, creating seamless user experiences, and writing clean, efficient code.
 
