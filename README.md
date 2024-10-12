@@ -27,10 +27,9 @@ I am a full-stack developer with a passion for building robust and scalable appl
 
 ### Frontend
 
-- HTML, CSS, JavaScript
-- React.js, Next.js, TypeScript, Tailwind CSS
-- Responsive Web Design
+- JavaScript, React.js, Next.js, TypeScript, Tailwind CSS
 - State Management (Redux, Context API)
+- Responsive Web Design
 
 ### Backend
 
