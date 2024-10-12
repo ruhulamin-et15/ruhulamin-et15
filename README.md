@@ -16,7 +16,7 @@ I am a full-stack developer with a passion for building robust and scalable appl
 
 ## 🌍 About Me
 
-- 🌱 I’m currently learning IoT.
+- 🌱 I’m currently learning Socket.io
 - 💼 I’m looking for opportunities to collaborate on interesting projects.
 - 📫 How to reach me: ruhulamin.et15@gmail.com
 
